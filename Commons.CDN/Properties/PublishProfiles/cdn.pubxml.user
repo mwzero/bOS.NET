@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Dati\mySoftware\Web Site Publish\CDN</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_GlobalResources/Application.Designer.cs">
+      <publishTime>04/06/2015 17:18:00</publishTime>
+    </File>
+    <File Include="App_GlobalResources/Application.resx">
+      <publishTime>04/06/2015 17:18:00</publishTime>
+    </File>
+    <File Include="bin/bOS.Commons.dll">
+      <publishTime>04/07/2015 11:11:28</publishTime>
+    </File>
+    <File Include="bin/bOS.Commons.UI.Controls.dll">
+      <publishTime>04/07/2015 11:25:34</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.Core.dll">
+      <publishTime>04/06/2015 22:56:04</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.dll">
+      <publishTime>04/06/2015 22:56:04</publishTime>
+    </File>
+    <File Include="bin/Commons.CDN.dll">
+      <publishTime>04/06/2015 13:19:38</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/bootstrap.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/plugins/dataTables.bootstrap.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/plugins/metisMenu/metisMenu.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/plugins/metisMenu/metisMenu.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/plugins/morris.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/plugins/social-buttons.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/plugins/timeline.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/css/sb-admin-2.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/font-awesome-4.1.0/css/font-awesome.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/font-awesome-4.1.0/css/font-awesome.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/bootstrap.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/bootstrap.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/jquery.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/dataTables/dataTables.bootstrap.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/dataTables/jquery.dataTables.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/flot/excanvas.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/flot/flot-data.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/flot/jquery.flot.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/flot/jquery.flot.pie.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/flot/jquery.flot.resize.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/flot/jquery.flot.tooltip.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/metisMenu/metisMenu.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/metisMenu/metisMenu.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/morris/morris-data.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/morris/morris.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/morris/morris.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/plugins/morris/raphael.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/Design/sb-admin-2/js/sb-admin-2.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>02/03/2015 17:11:37</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>04/06/2015 13:13:56</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>02/03/2015 17:11:37</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/06/2015 13:14:14</publishTime>
+    </File>
+    <File Include="bin/OpenPop.dll">
+      <publishTime>02/03/2015 17:11:37</publishTime>
+    </File>
+    <File Include="bin/Quartz.dll">
+      <publishTime>04/06/2015 22:56:04</publishTime>
+    </File>
+    <File Include="bin/Services.CDN.dll">
+      <publishTime>04/07/2015 11:25:35</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>04/06/2015 13:14:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>04/06/2015 13:14:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>04/06/2015 13:14:11</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/06/2015 18:07:11</publishTime>
+    </File>
+    <File Include="Default.htm">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="Design/Admin.Master">
+      <publishTime>04/06/2015 17:12:17</publishTime>
+    </File>
+    <File Include="Design/css/bootstrap-datetimepicker.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/css/jquery.alerts.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/css/summernote.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/favicon.ico">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/folder.png">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/help.gif">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/icon-user-default.png">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/icon_wait.gif">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/important.gif">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/info.gif">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/link photo.txt">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/images/logo.jpg">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/js/bootstrap-datetimepicker.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/js/common.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/js/html5shiv.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/js/jquery.blockUI.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/js/moment.locale.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/js/summernote.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/bootstrap.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/plugins/dataTables.bootstrap.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/plugins/metisMenu/metisMenu.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/plugins/metisMenu/metisMenu.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/plugins/morris.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/plugins/social-buttons.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/plugins/timeline.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/css/sb-admin-2.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/css/font-awesome.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/css/font-awesome.min.css">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/fonts/fontawesome-webfont.eot">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/fonts/fontawesome-webfont.svg">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/fonts/fontawesome-webfont.woff">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/font-awesome-4.1.0/fonts/FontAwesome.otf">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/bootstrap.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/bootstrap.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/jquery.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/dataTables/dataTables.bootstrap.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/dataTables/jquery.dataTables.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/flot/excanvas.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/flot/flot-data.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/flot/jquery.flot.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/flot/jquery.flot.pie.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/flot/jquery.flot.resize.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/flot/jquery.flot.tooltip.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/metisMenu/metisMenu.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/metisMenu/metisMenu.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/morris/morris-data.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/morris/morris.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/morris/morris.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/plugins/morris/raphael.min.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/sb-admin-2/js/sb-admin-2.js">
+      <publishTime>04/06/2015 17:12:20</publishTime>
+    </File>
+    <File Include="Design/Web.config">
+      <publishTime>04/06/2015 17:13:12</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/06/2015 17:16:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/06/2015 22:56:06</publishTime>
+    </File>
+    <File Include="quartz_jobs.xml">
+      <publishTime>04/06/2015 17:59:40</publishTime>
+    </File>
+    <File Include="Test.html">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="Toolbox/Console.aspx">
+      <publishTime>04/06/2015 17:26:10</publishTime>
+    </File>
+    <File Include="Toolbox/Controls/FileGridCS.ascx">
+      <publishTime>02/08/2015 20:45:35</publishTime>
+    </File>
+    <File Include="Toolbox/InternalStoreFolderList.aspx">
+      <publishTime>04/06/2015 17:30:18</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/0-4999/4432/5664/Immagini/250.JPG">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/0-4999/5/29214/Documenti/27266.pdf">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/10000-14999/10564/29228/Documenti/29228">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/10000-14999/10564/29228/Documenti/29228.pdf">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/15000-19999/17809/29225/Documenti/27267.pdf">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/15000-19999/17809/29225/Documenti/27269.pdf">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="UploadFilesFolder/archivexFile/5000-9999/9099/29226/Documenti/27268.pdf">
+      <publishTime>01/20/2015 12:04:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/07/2015 11:25:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

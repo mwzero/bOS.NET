@@ -1,0 +1,219 @@
+12-15@17:26:58 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@17:27:00 DEBUG [Commons.CDN.Controllers.ArchivexFileController:80] - "ArchiveX.dll.config"
+12-15@17:27:00 DEBUG [Commons.CDN.Controllers.ArchivexFileController:81] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_c431ae2c-2644-428b-9ddc-12ab188c740d
+12-15@17:31:52 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@17:31:53 DEBUG [Commons.CDN.Controllers.ArchivexFileController:71] - caption: 33
+12-15@17:31:53 DEBUG [Commons.CDN.Controllers.ArchivexFileController:78] - "Quartz.xml"
+12-15@17:31:53 DEBUG [Commons.CDN.Controllers.ArchivexFileController:79] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_8e0e32c0-9565-4004-9db7-6ffc7b2b5b74
+12-15@17:40:21 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@17:40:22 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@17:40:22 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@17:40:22 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 1
+12-15@17:40:22 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_5b88884c-5022-4ead-8b67-f641a2e57ae9
+12-15@17:41:09 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@17:41:10 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@17:41:10 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@17:41:10 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 1
+12-15@17:41:10 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_9fe02ecd-d93d-4947-9cb4-f9fef3fc5a0b
+12-15@17:41:56 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@17:41:56 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@17:41:56 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 1
+12-15@17:41:56 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_f15d18c7-71c1-47ca-a156-c0db07238a40
+12-15@17:45:02 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@17:45:11 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@17:45:11 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@17:45:11 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@17:45:41 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_93a0dada-0ea6-4120-9083-02f2bd55f945
+12-15@17:46:18 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@17:46:18 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@17:46:18 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@17:46:20 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_6a3eac69-4e46-4be9-9c50-4fa3fee00597
+12-15@18:05:34 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@18:05:35 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@18:05:35 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@18:05:35 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@18:05:35 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_b3958516-fa5f-4647-8f12-764c6794375f
+12-15@18:06:51 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@18:06:51 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@18:06:51 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@18:06:51 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_72fc9cbc-b63e-4cc6-aae0-6d707f439864
+12-15@18:07:08 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@18:07:08 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@18:07:08 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@18:07:08 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_426e239c-9ebf-4d74-97e0-5c7efaf68d9b
+12-15@18:07:17 INFO  [Commons.CDN.WebApiApplication:25] - Shutdown Application on Date: 20141215
+12-15@18:07:20 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@18:07:21 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@18:07:21 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@18:07:21 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@18:07:21 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_6cf45ad8-1c00-49da-a41a-1d8919a63a3c
+12-15@18:08:23 INFO  [Commons.CDN.WebApiApplication:25] - Shutdown Application on Date: 20141215
+12-15@18:08:52 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141215
+12-15@18:08:52 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-15@18:08:52 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-15@18:08:52 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-15@18:08:52 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_d7b28980-fcbe-4a29-8b89-b75af5aa9e9b
+12-15@18:08:52 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String[] pathList, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:11:36 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:11:37 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-16@15:11:37 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-16@15:11:37 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-16@15:11:37 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_24592343-8a18-41b8-a9dc-2e583abe9fe1
+12-16@15:11:37 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String[] pathList, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:27:54 INFO  [Commons.CDN.WebApiApplication:25] - Shutdown Application on Date: 20141216
+12-16@15:35:20 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:35:21 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_b7810edc-9333-4269-9ec0-36f87fd7be85
+12-16@15:36:49 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_e601107d-35ac-43ff-b392-1288d9df429e
+12-16@15:36:49 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:37:08 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_722c494d-9ab0-4f1b-b824-601616862b58
+12-16@15:37:08 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:37:11 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_c3ea8b75-93d9-4cec-82f2-e5a8052b5f25
+12-16@15:37:11 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:37:39 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-16@15:37:39 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-16@15:37:39 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-16@15:37:39 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_324498f7-fd6d-4e55-ae32-7ba7d987a87d
+12-16@15:39:04 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_fb4064fa-b287-445b-a0d8-07c6c2e3c08f
+12-16@15:39:04 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:39:09 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_0ebd970e-2245-49c1-b9cc-c174ef9a7c5f
+12-16@15:39:09 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:39:15 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_4c6cf1bc-5d27-4175-8ebc-c572083af5ec
+12-16@15:39:15 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:40:06 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:40:06 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_3a099c28-3100-4a89-9964-31f06ba8dc64
+12-16@15:40:06 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:40:50 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:41:06 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_f9900502-7df5-4c13-adbe-018505f6255b
+12-16@15:41:45 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:42:14 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_22024078-979d-46b5-a25a-6bfc3f7bb583
+12-16@15:43:23 INFO  [Commons.CDN.WebApiApplication:25] - Shutdown Application on Date: 20141216
+12-16@15:43:53 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:44:05 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-16@15:44:08 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-16@15:44:12 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-16@15:44:16 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_5fed109e-dbc6-49d9-808b-c04ecedf442b
+12-16@15:44:43 ERROR [Commons.CDN.Controllers.ArchivexFileController:126] - System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String[] pathList, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Commons.CDN.Controllers.ArchivexFileController.<PostFormData>d__0.MoveNext() in c:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\Controllers\ArchivexFileController.cs:line 119
+12-16@15:48:41 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:48:42 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-16@15:48:42 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-16@15:48:42 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-16@15:48:42 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_533768c5-40cb-4b67-b372-d59622c0814e
+12-16@15:49:01 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141216
+12-16@15:49:14 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - paziente: 100
+12-16@15:49:14 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - visita: 200
+12-16@15:49:14 DEBUG [Commons.CDN.Controllers.ArchivexFileController:91] - folderType: 0
+12-16@15:49:14 DEBUG [Commons.CDN.Controllers.ArchivexFileController:99] - Server file path: C:\Users\maurizio farina\Documents\Development\bos\Commons.CDN\App_Data\BodyPart_e3d761f2-7f95-429b-b0d2-c2dfdce3ff85
+12-17@16:15:04 INFO  [Commons.CDN.WebApiApplication:18] - Start Application on Date: 20141217
+04-06@17:16:09 INFO  [bOS.Services.CDN.WebApiApplication:19] - Start Application on Date: 20150406
+04-06@17:18:06 INFO  [bOS.Services.CDN.WebApiApplication:19] - Start Application on Date: 20150406
+04-06@17:37:06 INFO  [bOS.Services.CDN.WebApiApplication:19] - Start Application on Date: 20150406
+04-06@17:38:32 INFO  [bOS.Services.CDN.WebApiApplication:19] - Start Application on Date: 20150406
+04-06@17:38:34 INFO  [bOS.Services.CDN.WebApiApplication:30] - Shutdown Application on Date: 20150406
+04-06@17:38:35 INFO  [bOS.Services.CDN.WebApiApplication:19] - Start Application on Date: 20150406
+04-06@17:38:57 INFO  [Commons.CDN.Toolbox.Console:48] - Cache: Clear all objects
+04-06@17:38:57 INFO  [Commons.CDN.Toolbox.Console:52] - Cache: Delete cache folders C:\Dati\mySoftware\bosnet\Commons.CDN\UploadFilesFolder//Cache
+04-06@17:40:41 INFO  [bOS.Services.CDN.WebApiApplication:19] - Start Application on Date: 20150406
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:58] - Post content
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:66] - Try save request stream directly on a file
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:72] - Read the form data
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:98] - paziente: 5
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:98] - visita: 29214
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:98] - folderType: 0
+04-06@17:41:20 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:106] - Server file path: C:\Dati\mySoftware\bosnet\Commons.CDN\App_Data\BodyPart_f9b62fbf-039e-4a12-b5e7-4b2e9025dcba
+04-06@17:59:58 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:65] - Post content
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:73] - Try save request stream directly on a file
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:79] - Read the form data
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:105] - paziente: 5
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:105] - visita: 29214
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:105] - folderType: 0
+04-06@18:00:22 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:113] - Server file path: C:\Dati\mySoftware\bosnet\Commons.CDN\App_Data\BodyPart_bc432b5b-611f-4db2-bf28-4e4bc9a389bc
+04-06@18:08:18 INFO  [Commons.CDN.Toolbox.Console:40] - Scheduler: Starting
+04-06@18:35:39 INFO  [Commons.CDN.Toolbox.Console:34] - Scheduler: Suspending
+04-06@19:46:58 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@19:47:32 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@19:54:52 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@20:01:22 INFO  [bOS.Services.CDN.WebApiApplication:29] - Shutdown Application on Date: 20150406
+04-06@20:02:37 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@20:03:12 INFO  [bOS.Services.CDN.WebApiApplication:29] - Shutdown Application on Date: 20150406
+04-06@20:03:19 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@20:07:06 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@20:08:37 INFO  [bOS.Services.CDN.WebApiApplication:29] - Shutdown Application on Date: 20150406
+04-06@20:09:32 INFO  [bOS.Services.CDN.WebApiApplication:20] - Start Application on Date: 20150406
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:65] - Post content
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:73] - Try save request stream directly on a file
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:79] - Read the form data
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:105] - paziente: 5
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:105] - visita: 29214
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:105] - folderType: 0
+04-06@20:09:32 DEBUG [bOS.Services.CDN.Controllers.ArchivexFileController:113] - Server file path: C:\Dati\mySoftware\bosnet\Commons.CDN\App_Data\BodyPart_025a1c87-38bb-40cb-94b6-73068a1f10b0
+04-06@21:44:22 INFO  [bOS.Services.CDN.WebApiApplication:29] - Shutdown Application on Date: 20150406

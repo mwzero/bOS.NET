@@ -1,0 +1,6 @@
+bin*/
+obj*/
+packages/*
+obj\Debug*/
+obj\Debug*/
+obj/Debug/DesignTimeResolveAssemblyReferences.cache

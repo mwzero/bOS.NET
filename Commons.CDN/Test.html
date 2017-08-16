@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form name="form1" method="post" enctype="multipart/form-data" action="api/ArchivexFile">
+        
+        <div>
+            <label for="paziente">Paziente</label>
+            <input name="paziente" type="text" />
+        </div>
+        
+        <div>
+            <label for="visita">Visita</label>
+            <input name="visita" type="text" />
+        </div>
+        
+        <div>
+            <label for="folderType">Tipo Allegato</label>
+            <select name="folderType">
+                <option value="0">Document</option>
+                <option value="1">Film</option>
+                <option value="2">Image</option>
+                <option value="3">Other</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="image">Allegato</label>
+            <input name="image" type="file" />
+        </div>
+        <div>
+            <input type="submit" value="Submit" />
+        </div>
+
+    </form>
+</body>
+</html>

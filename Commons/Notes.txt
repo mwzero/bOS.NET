@@ -1,0 +1,6 @@
+﻿Per versare in nuget:
+
+nuget SetApiKey c71bc51d-476f-4915-acdd-0521cfbd8024
+nuget pack YourPackage.nuspec
+
+e poi eseguo l'upload in nuget

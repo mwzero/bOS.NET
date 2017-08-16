@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:complexType name="Fields">
+    <xs:sequence>
+      <xs:element name="Field" minOccurs="0" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Value" type="xs:string" minOccurs="0" maxOccurs="1"/>
+          </xs:sequence>
+          <xs:attribute name="Name" type="xs:string" use="required"></xs:attribute>
+          <xs:attribute name="Class" type="xs:string" use="required"></xs:attribute>
+          <xs:attribute name="DefaultValue" type="xs:string" use="optional"></xs:attribute>
+          <xs:attribute name="Mandatory" type="xs:integer" use="optional"></xs:attribute>
+          <xs:attribute name="Length" type="xs:integer" use="optional"></xs:attribute>
+          <xs:attribute name="Decimal" type="xs:integer" use="optional"></xs:attribute>
+          <xs:attribute name="Css" type="xs:string" use="optional"></xs:attribute>
+          <xs:attribute name="Label" type="xs:string" use="optional"></xs:attribute>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="FieldRef" minOccurs="0" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:attribute name="Name" type="xs:string" use="required"></xs:attribute>
+          <xs:attribute name="Type" type="xs:string" use="required"></xs:attribute>
+          <xs:attribute name="CrudRef" type="xs:string" use="optional"></xs:attribute>
+          <xs:attribute name="Descrizione" type="xs:string" use="optional"></xs:attribute>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CrudBase">
+    <xs:sequence>
+      <xs:element name="Items">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Item" minOccurs="1" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="CrudBase" type="CrudBase" minOccurs="0" maxOccurs="unbounded"></xs:element>
+                  <xs:element name="Fields" type="Fields" minOccurs="0" maxOccurs="1"></xs:element>
+                </xs:sequence>
+                <xs:attribute name="Value" type="xs:string" use="required"></xs:attribute>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute name="Name" type="xs:string" use="required"></xs:attribute>
+    <xs:attribute name="RelationMaster" type="xs:string" use="optional"></xs:attribute>
+    <xs:attribute name="RelationSlave" type="xs:string" use="optional"></xs:attribute>
+  </xs:complexType>
+
+  <xs:element name="Database">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="Roles" minOccurs="1" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Role" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="Name" type="xs:string" use="required"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="Users" minOccurs="1" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="User" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="Username" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="FirstName" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="LastName" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="CF" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="Cellulare" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="Telefono" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="Mail" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="Roles" type="xs:string" use="required"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="CrudBases" minOccurs="1" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CrudBase" type="CrudBase" minOccurs="1" maxOccurs="unbounded" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <xs:element name="Comuni" minOccurs="1" maxOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Comune" minOccurs="1" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="CodiceIstat" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="Comune" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="Provincia" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="CAP" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="CodFiscale" type="xs:string" use="required"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,4 @@
+C:\Dati\mySoftware\bosnet\Commons.UI.Controls\bin\Debug\bOS.Commons.UI.Controls.dll
+C:\Dati\mySoftware\bosnet\Commons.UI.Controls\bin\Debug\bOS.Commons.UI.Controls.pdb
+C:\Dati\mySoftware\bosnet\Commons.UI.Controls\obj\Debug\bOS.Commons.UI.Controls.dll
+C:\Dati\mySoftware\bosnet\Commons.UI.Controls\obj\Debug\bOS.Commons.UI.Controls.pdb

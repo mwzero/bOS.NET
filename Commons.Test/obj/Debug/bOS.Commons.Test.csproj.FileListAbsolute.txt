@@ -1,0 +1,4 @@
+C:\Users\maurizio farina\Documents\Development\bos\Commons.Test\bin\Debug\Commons.Test.dll
+C:\Users\maurizio farina\Documents\Development\bos\Commons.Test\bin\Debug\Commons.Test.pdb
+C:\Users\maurizio farina\Documents\Development\bos\Commons.Test\obj\Debug\Commons.Test.dll
+C:\Users\maurizio farina\Documents\Development\bos\Commons.Test\obj\Debug\Commons.Test.pdb

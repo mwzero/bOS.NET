@@ -1,0 +1,2 @@
+﻿Per una guida su come scrivere i test guardare a questo links:
+http://msdn.microsoft.com/it-it/library/ms182532.aspx

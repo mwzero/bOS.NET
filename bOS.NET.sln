@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{354C590F-08AD-484B-B098-FD8DE613A328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bOS.Commons", "Commons\bOS.Commons.csproj", "{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bOS.Commons.Test", "Commons.Test\bOS.Commons.Test.csproj", "{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bOS.Commons.UI.Controls", "Commons.UI.Controls\bOS.Commons.UI.Controls.csproj", "{583495F7-3E31-4E89-A032-6062206EFA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Any CPU = Azure|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}.Azure|Any CPU.ActiveCfg = Azure|Any CPU
+		{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}.Azure|Any CPU.Build.0 = Azure|Any CPU
+		{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6576B47-4E3C-4D2A-A8A9-247F7A283B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}.Azure|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}.Azure|Any CPU.Build.0 = Release|Any CPU
+		{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583495F7-3E31-4E89-A032-6062206EFA4E}.Azure|Any CPU.ActiveCfg = Release|Any CPU
+		{583495F7-3E31-4E89-A032-6062206EFA4E}.Azure|Any CPU.Build.0 = Release|Any CPU
+		{583495F7-3E31-4E89-A032-6062206EFA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583495F7-3E31-4E89-A032-6062206EFA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583495F7-3E31-4E89-A032-6062206EFA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583495F7-3E31-4E89-A032-6062206EFA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
