@@ -2,3 +2,7 @@ C:\Dati\mySoftware\bosnet\Commons.UI.Controls\bin\Debug\bOS.Commons.UI.Controls.
 C:\Dati\mySoftware\bosnet\Commons.UI.Controls\bin\Debug\bOS.Commons.UI.Controls.pdb
 C:\Dati\mySoftware\bosnet\Commons.UI.Controls\obj\Debug\bOS.Commons.UI.Controls.dll
 C:\Dati\mySoftware\bosnet\Commons.UI.Controls\obj\Debug\bOS.Commons.UI.Controls.pdb
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\bin\Debug\bOS.Commons.UI.Controls.dll
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\bin\Debug\bOS.Commons.UI.Controls.pdb
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\obj\Debug\bOS.Commons.UI.Controls.dll
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\obj\Debug\bOS.Commons.UI.Controls.pdb

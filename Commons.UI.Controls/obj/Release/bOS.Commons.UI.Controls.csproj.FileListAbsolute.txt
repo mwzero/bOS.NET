@@ -1,0 +1,5 @@
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\bin\Release\bOS.Commons.UI.Controls.dll
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\bin\Release\bOS.Commons.UI.Controls.pdb
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\obj\Release\bOS.Commons.UI.Controls.csprojResolveAssemblyReference.cache
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\obj\Release\bOS.Commons.UI.Controls.dll
+C:\Users\emaurfa\Development\git\bOS.NET\Commons.UI.Controls\obj\Release\bOS.Commons.UI.Controls.pdb

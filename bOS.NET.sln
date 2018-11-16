@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{354C590F-08AD-484B-B098-FD8DE613A328}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bOS.Commons.Test", "Commons.Test\bOS.Commons.Test.csproj", "{1D2D1D6B-CA2B-490E-B671-EE81AAC6BDB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bOS.Commons.UI.Controls", "Commons.UI.Controls\bOS.Commons.UI.Controls.csproj", "{583495F7-3E31-4E89-A032-6062206EFA4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bOS.Services.CDN", "Commons.CDN\bOS.Services.CDN.csproj", "{1CEBFD38-1618-4808-BD01-DE031B69C883}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,12 @@ Global
 		{583495F7-3E31-4E89-A032-6062206EFA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583495F7-3E31-4E89-A032-6062206EFA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583495F7-3E31-4E89-A032-6062206EFA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEBFD38-1618-4808-BD01-DE031B69C883}.Azure|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEBFD38-1618-4808-BD01-DE031B69C883}.Azure|Any CPU.Build.0 = Release|Any CPU
+		{1CEBFD38-1618-4808-BD01-DE031B69C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEBFD38-1618-4808-BD01-DE031B69C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEBFD38-1618-4808-BD01-DE031B69C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEBFD38-1618-4808-BD01-DE031B69C883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
